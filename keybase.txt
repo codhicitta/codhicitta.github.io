@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/dheles
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://codhicitta.github.io
+  * I am dheles (https://keybase.io/dheles) on keybase.
+  * I have a public key ASCMaS3WAX6Aa8tlUdUPIsSEkTU2xEiX8Qn_dBWEC1ySmAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101007752a7fbe4b2b0ec86acbaf56ccdc4811b1143366b2ca34b4de1d77fb26a730a",
+      "host": "keybase.io",
+      "kid": "01208c692dd6017e806bcb6551d50f22c484913536c44897f109ff7415840b5c92980a",
+      "uid": "982b31afba897d3f38ad1dabc68f3019",
+      "username": "dheles"
+    },
+    "merkle_root": {
+      "ctime": 1508090026,
+      "hash": "26c903326c3ca234d89f3f9720f61c07dbcefc1fb73bf6e76b4bab6aeca8dedb5dd5bf34d74de7562948a18ca05d63f0953bbe1a77384ba293c6e0acd9669527",
+      "hash_meta": "98f2713ab858491ef15b1db087cb4f3ef98242ef5d277a94dadf9642cc4bae86",
+      "seqno": 1581613
+    },
+    "service": {
+      "hostname": "codhicitta.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.33"
+  },
+  "ctime": 1508090055,
+  "expire_in": 504576000,
+  "prev": "0cfa1bd42221c678e5c8ca054adca523f2b966ee84a6edccd6108402a4538a9a",
+  "seqno": 30,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgjGkt1gF+gGvLZVHVDyLEhJE1NsRIl/EJ/3QVhAtckpgKp3BheWxvYWTFA0t7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxMDA3NzUyYTdmYmU0YjJiMGVjODZhY2JhZjU2Y2NkYzQ4MTFiMTE0MzM2NmIyY2EzNGI0ZGUxZDc3ZmIyNmE3MzBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwOGM2OTJkZDYwMTdlODA2YmNiNjU1MWQ1MGYyMmM0ODQ5MTM1MzZjNDQ4OTdmMTA5ZmY3NDE1ODQwYjVjOTI5ODBhIiwidWlkIjoiOTgyYjMxYWZiYTg5N2QzZjM4YWQxZGFiYzY4ZjMwMTkiLCJ1c2VybmFtZSI6ImRoZWxlcyJ9LCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTUwODA5MDAyNiwiaGFzaCI6IjI2YzkwMzMyNmMzY2EyMzRkODlmM2Y5NzIwZjYxYzA3ZGJjZWZjMWZiNzNiZjZlNzZiNGJhYjZhZWNhOGRlZGI1ZGQ1YmYzNGQ3NGRlNzU2Mjk0OGExOGNhMDVkNjNmMDk1M2JiZTFhNzczODRiYTI5M2M2ZTBhY2Q5NjY5NTI3IiwiaGFzaF9tZXRhIjoiOThmMjcxM2FiODU4NDkxZWYxNWIxZGIwODdjYjRmM2VmOTgyNDJlZjVkMjc3YTk0ZGFkZjk2NDJjYzRiYWU4NiIsInNlcW5vIjoxNTgxNjEzfSwic2VydmljZSI6eyJob3N0bmFtZSI6ImNvZGhpY2l0dGEuZ2l0aHViLmlvIiwicHJvdG9jb2wiOiJodHRwczoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMzMifSwiY3RpbWUiOjE1MDgwOTAwNTUsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJwcmV2IjoiMGNmYTFiZDQyMjIxYzY3OGU1YzhjYTA1NGFkY2E1MjNmMmI5NjZlZTg0YTZlZGNjZDYxMDg0MDJhNDUzOGE5YSIsInNlcW5vIjozMCwidGFnIjoic2lnbmF0dXJlIn2jc2lnxED5RZXSmDPHSxC20CUGLhDkfIzhBD6si4hKwf2B0T90ICJ3iwXaGv1TFRb7P6WD8OYdumLBnoW72ICu2RMJK9gKqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQgJuqiTV6twikIwBImDRlo/NO785a0Rx4ew39drEjc/iijdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/dheles
+
+==================================================================
